@@ -1,0 +1,11 @@
+img{
+    height: 200px;
+}
+.owl-theme .owl-dots .owl-dot span{
+    width: 61px;
+    background: #d84906;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+    color: #1306e4;
+    font-size: 50px;
+}
